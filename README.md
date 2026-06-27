@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
