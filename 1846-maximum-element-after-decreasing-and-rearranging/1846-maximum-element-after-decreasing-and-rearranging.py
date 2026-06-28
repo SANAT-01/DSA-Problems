@@ -6,7 +6,7 @@ class Solution:
             arr[0]=1
             ans+=1
         for i in range(1,len(arr)):
-            if arr[i]-arr[i-1]>1:
+            if abs(arr[i]-arr[i-1])>1:
                 ans+=1
                 arr[i]=arr[i-1]+1
             # print(arr)
