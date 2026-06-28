@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/SANAT-01/DSA-Problems/tree/main/0147-insertion-sort-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
