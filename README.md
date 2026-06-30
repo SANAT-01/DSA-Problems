@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Enumeration
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0481-magical-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SANAT-01/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -124,5 +126,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
