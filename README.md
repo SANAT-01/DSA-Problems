@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0481-magical-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0481-magical-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -143,4 +144,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
