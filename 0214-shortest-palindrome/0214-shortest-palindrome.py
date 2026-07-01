@@ -8,5 +8,4 @@ class Solution:
             if arr==arr[::-1]:
                 maxi=i+1
             i+=1
-        print(maxi)
         return s[maxi:][::-1]+s
