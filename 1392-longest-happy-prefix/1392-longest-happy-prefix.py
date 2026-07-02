@@ -1,16 +1,13 @@
 class Solution:
     def longestPrefix(self, s: str) -> str:
-        i,n=0,len(s)
-        if n<=1:
-            return ''
-        x=y=''
-        maxi=0
-        while i<n-1:
-            x+=s[i]
-            y=s[n-i-1]+y
-            if x==y:
-                maxi=i
-            i+=1
-        if maxi==0:
-            if s[0]!=s[-1]: return ''
-        return s[:maxi+1]
+        n=len(s)
+        lps=[0]*n
+        j=0
+        for i in range(1,n):
+            while j>0 and s[i]!=s[j]:
+                j=lps[j-1]
+            if s[i]==s[j]:
+                j+=1
+                lps[i]=j
+        # print(lps)
+        return s[:lps[-1]]
