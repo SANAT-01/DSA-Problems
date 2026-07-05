@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SANAT-01/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Indexed Tree
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/SANAT-01/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SANAT-01/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,16 +163,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/SANAT-01/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/SANAT-01/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/SANAT-01/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SANAT-01/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 <!---LeetCode Topics End-->
