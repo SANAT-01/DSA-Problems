@@ -22,9 +22,7 @@ class Solution:
                     elif x[i]==']': b-=1
                     sub+=x[i]
                     i+=1
-                # print(x,cnt,sub)
                 ans+=cnt*solve(sub)
-                # print(ans)
                 i+=1
             return ans
         return solve(s)
