@@ -10,5 +10,4 @@ class Solution:
                 num=num+r*(10**pow)
                 pow+=1
             n//=10
-        print(num,sm)
         return num*sm
