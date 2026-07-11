@@ -1,11 +1,14 @@
 class Solution:
     def sumAndMultiply(self, n: int) -> int:
-        x, sum, pow10 = 0, 0, 1
-        while n > 0:
-            d = n % 10
-            sum += d
-            if d > 0:
-                x += d * pow10
-                pow10 *= 10
-            n //= 10
-        return x * sum
+        num=0
+        sm=0
+        pow=0
+        while n:
+            r=n%10
+            sm+=r
+            if r>0:
+                num=num+r*(10**pow)
+                pow+=1
+            n//=10
+        print(num,sm)
+        return num*sm
