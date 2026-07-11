@@ -3,10 +3,12 @@ from collections import defaultdict
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
         adj=defaultdict(list)
+        cntr=defaultdict(int)
         for i,j in edges:
             adj[i].append(j)
+            cntr[i]+=1
             adj[j].append(i)
-        print(adj)
+            cntr[j]+=1
         visited=[0]*n
         def traverse(node):
             if node not in adj:
@@ -21,9 +23,8 @@ class Solution:
                     if not visited[ng]:
                         queue.append(ng)
                         visited[ng]=1
-                        ed+=len(adj[ng])
+                        ed+=cntr[ng]
                         nodes+=1
-            print(ed//2==nodes*(nodes-1)//2)
             return ed//2==nodes*(nodes-1)//2
         cnt=0
         for i in range(n):
