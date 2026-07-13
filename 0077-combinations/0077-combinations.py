@@ -3,11 +3,13 @@ class Solution:
         ans=[]
         def solve(arr,i,l):
             if l==k:
-                ans.append(arr)
+                ans.append(arr[:])
                 return
             if i>n:
                 return
-            solve(arr+[i],i+1,l+1)
+            arr.append(i)
+            solve(arr,i+1,l+1)
+            arr.pop()
             solve(arr,i+1,l)
         solve([],1,0)
         return ans
