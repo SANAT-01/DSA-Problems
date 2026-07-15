@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0481-magical-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/SANAT-01/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SANAT-01/DSA-Problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SANAT-01/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
@@ -263,4 +264,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0077-combinations](https://github.com/SANAT-01/DSA-Problems/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SANAT-01/DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SANAT-01/DSA-Problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 <!---LeetCode Topics End-->
