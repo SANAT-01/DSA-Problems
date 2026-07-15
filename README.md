@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0932-beautiful-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0932-beautiful-array/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SANAT-01/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Simulation
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SANAT-01/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
