@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0932-beautiful-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/SANAT-01/DSA-Problems/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SANAT-01/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/SANAT-01/DSA-Problems/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SANAT-01/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -64,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -112,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/SANAT-01/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -268,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -279,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/SANAT-01/DSA-Problems/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SANAT-01/DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SANAT-01/DSA-Problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
