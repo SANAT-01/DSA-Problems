@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/SANAT-01/DSA-Problems/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SANAT-01/DSA-Problems/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SANAT-01/DSA-Problems/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/SANAT-01/DSA-Problems/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SANAT-01/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SANAT-01/DSA-Problems/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/SANAT-01/DSA-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
