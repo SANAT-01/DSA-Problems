@@ -5,8 +5,4 @@ class Solution:
         deg=[0]*n
         for i,j in edges:
             deg[j]+=1
-        ans=[]
-        for idx,i in enumerate(deg):
-            if i==0:
-                ans.append(idx)
-        return ans
+        return [idx for idx,i in enumerate(deg) if i==0]
