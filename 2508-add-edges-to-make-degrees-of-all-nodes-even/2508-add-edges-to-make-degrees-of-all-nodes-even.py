@@ -9,9 +9,7 @@ class Solution:
             return a not in G[b]
         if len(odd) == 2:
             a, b = odd
-            print(list(f(a,i) and f(b,i) for i in range(n)))
             return any(f(a,i) and f(b,i) for i in range(n))
-
         if len(odd) == 4:
             a,b,c,d = odd
             return  f(a,b) and f(c,d) or \
