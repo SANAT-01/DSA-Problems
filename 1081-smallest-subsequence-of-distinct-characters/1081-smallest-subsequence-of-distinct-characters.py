@@ -1,14 +1,14 @@
 class Solution:
     def smallestSubsequence(self, s: str) -> str:
-        freq = Counter(s)
-        seen = set()
-        stack = []
-
+        cnt=Counter(s)
+        stack=[]
+        visited=set()
         for c in s:
-            freq[c] -= 1
-            if c in seen: continue
-            while stack and stack[-1] > c and freq[stack[-1]]:
-                seen.remove(stack.pop())
+            cnt[c]-=1
+            if c in visited:
+                continue
+            while stack and stack[-1]>c and cnt[stack[-1]]:
+                visited.remove(stack.pop())
+            visited.add(c)
             stack.append(c)
-            seen.add(c)
         return "".join(stack)
