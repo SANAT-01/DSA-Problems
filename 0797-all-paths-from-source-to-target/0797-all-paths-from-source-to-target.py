@@ -4,9 +4,11 @@ class Solution:
         n=len(graph)
         def dfs(node,arr):
             if node==n-1:
-                ans.append(arr)
+                ans.append(arr.copy())
                 return
             for ng in graph[node]:
-                dfs(ng,arr+[ng])
+                arr.append(ng)
+                dfs(ng,arr)
+                arr.pop()
         dfs(0,[0])
         return ans
