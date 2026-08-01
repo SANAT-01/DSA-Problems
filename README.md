@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
+| [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0932-beautiful-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/SANAT-01/DSA-Problems/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/SANAT-01/DSA-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SANAT-01/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SANAT-01/DSA-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0394-decode-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -355,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
