@@ -22,7 +22,6 @@ class Solution:
         for i in range(n):
             if i not in seen:
                 arr=traverse(i)
-                print(arr)
                 sm=0
                 lg=len(arr)-1
                 for node in arr:
