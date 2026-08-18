@@ -8,7 +8,6 @@ class Solution:
         for i in range(k):
             if dic[nums[i]]==1:
                 arr[i]+=1
-        print(arr,dic)
         i+=1
         while i<n:
             dic[nums[i-k]]-=1
