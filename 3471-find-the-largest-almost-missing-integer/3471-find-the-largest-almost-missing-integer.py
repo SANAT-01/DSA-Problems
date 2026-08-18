@@ -17,7 +17,6 @@ class Solution:
                 if dic[nums[j]]==1:
                     arr[j]+=1
             i+=1
-        print(arr)
         rep={}
         for i in nums:
             rep[i]=rep.get(i,0)+1
