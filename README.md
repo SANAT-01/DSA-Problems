@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANAT-01/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SANAT-01/DSA-Problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SANAT-01/DSA-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
