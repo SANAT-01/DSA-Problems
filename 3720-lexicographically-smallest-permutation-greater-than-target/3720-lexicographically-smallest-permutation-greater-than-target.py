@@ -18,7 +18,6 @@ class Solution:
                     res.append(target[i])
                     continue
                 cnt[t] += 1
-            print(res)
 
             # Find a larger character
             for c in range(t + 1, 26):
