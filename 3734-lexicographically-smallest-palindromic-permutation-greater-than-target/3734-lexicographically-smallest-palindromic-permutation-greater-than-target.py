@@ -18,9 +18,7 @@ class Solution:
                 if odd_char != "":
                     return ""
                 odd_char = chr(ord("a") + i)
-            cnt[
-                i
-            ] //= 2  # It takes only half the characters to construct the left half
+            cnt[i] //= 2  # It takes only half the characters to construct the left half
 
         prefix = []
 
@@ -29,7 +27,6 @@ class Solution:
             left.append(c)
             for i in range(25, -1, -1):
                 left.extend([chr(ord("a") + i)] * cnt[i])
-
             palindrome = left + [odd_char] + left[::-1]
 
             return "".join(palindrome) > target
