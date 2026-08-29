@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0815-bus-routes](https://github.com/SANAT-01/DSA-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0877-stone-game](https://github.com/SANAT-01/DSA-Problems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0932-beautiful-array/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0815-bus-routes](https://github.com/SANAT-01/DSA-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/SANAT-01/DSA-Problems/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/SANAT-01/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0815-bus-routes](https://github.com/SANAT-01/DSA-Problems/tree/main/0815-bus-routes/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/SANAT-01/DSA-Problems/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/SANAT-01/DSA-Problems/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
