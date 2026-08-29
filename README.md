@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/SANAT-01/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SANAT-01/DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0394-decode-string/) | Medium |
