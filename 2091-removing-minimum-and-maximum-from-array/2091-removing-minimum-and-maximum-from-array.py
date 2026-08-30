@@ -10,7 +10,6 @@ class Solution:
             if nums[i]==maxi:
                 idx[1]=i
         mini,maxi=idx
-        print(mini,maxi,n)
         if mini<=n//2 and maxi<=n//2:
             return max(mini,maxi)+1
         elif mini>=n//2 and maxi>=n//2:
@@ -22,5 +21,4 @@ class Solution:
             if mini+1<n-maxi:
                 return mini+1 + min(maxi-mini,n-maxi)
             else:
-                print(mini,maxi)
                 return n-maxi + min(mini+1,maxi-mini)
