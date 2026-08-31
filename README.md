@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SANAT-01/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/SANAT-01/DSA-Problems/tree/main/0815-bus-routes/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/SANAT-01/DSA-Problems/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SANAT-01/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/SANAT-01/DSA-Problems/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SANAT-01/DSA-Problems/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SANAT-01/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Dynamic Programming
@@ -394,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SANAT-01/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SANAT-01/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -478,4 +483,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
