@@ -15,7 +15,6 @@ class Solution:
                 critical.append(cnt+1)
             cnt+=1
             head=head.next
-        print(critical,cnt)
         if len(critical)<2 or not critical:
             return [-1,-1]
         mini=cnt
