@@ -8,16 +8,14 @@ class Solution:
     def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
         critical=[]
         cnt=0
+        mini=float('inf')
         while head and head.next and head.next.next:
-            if head.val<head.next.val>head.next.next.val:
-                critical.append(cnt+1)
-            elif head.val>head.next.val<head.next.next.val:
+            if head.val<head.next.val>head.next.next.val or head.val>head.next.val<head.next.next.val:
+                if critical:
+                    mini=min(mini,cnt+1-critical[-1])
                 critical.append(cnt+1)
             cnt+=1
             head=head.next
         if len(critical)<2 or not critical:
             return [-1,-1]
-        mini=cnt
-        for i in range(len(critical)-1):
-            mini=min(critical[i+1]-critical[i],mini)
         return [mini,critical[-1]-critical[0]]
