@@ -1,28 +1,33 @@
+import heapq
+from collections import defaultdict
+from typing import List
+
 class Solution:
     def findTheCity(self, n: int, edges: List[List[int]], thres: int) -> int:
-        adj=defaultdict(list)
-        for i,j,d in edges:
-            adj[i].append((j,d))
-            adj[j].append((i,d))
-        def traverse(s):
-            seen=set([s])
-            dist=[float('inf')]*n
-            dist[s]=0
-            q=collections.deque([(s,0)])
-            while q:
-                node,t=q.popleft()
-                for ng,d in adj[node]:
-                    if t+d<dist[ng] or ng not in seen:
-                        if t+d<=thres:
-                            seen.add(ng)
-                            q.append((ng,d+t))
-                        dist[ng]=d+t
-            return len(seen)-1
-        mini=float('inf')
-        ans=[]
+        adj = defaultdict(list)
+        for u, v, w in edges:
+            adj[u].append((v, w))
+            adj[v].append((u, w))
+
+        def dijkstra(src):
+            dist = [float('inf')] * n
+            dist[src] = 0
+            heap = [(0, src)]
+            while heap:
+                d, node = heapq.heappop(heap)
+                if d > dist[node]:
+                    continue
+                for ng, w in adj[node]:
+                    if dist[node] + w < dist[ng]:
+                        dist[ng] = dist[node] + w
+                        heapq.heappush(heap, (dist[ng], ng))
+            return sum(1 for j in range(n) if src != j and dist[j] <= thres)
+
+        ans = -1
+        mini = float('inf')
         for i in range(n):
-            res=traverse(i)
-            if mini>=res:
-                ans.append(i)
-                mini=res
-        return ans[-1]
+            cnt = dijkstra(i)
+            if cnt <= mini:
+                mini = cnt
+                ans = i
+        return ans
