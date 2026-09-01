@@ -8,9 +8,9 @@ class Solution:
             seen=set([s])
             dist=[float('inf')]*n
             dist[s]=0
-            q=[(s,0)]
+            q=collections.deque([(s,0)])
             while q:
-                node,t=q.pop(-1)
+                node,t=q.popleft()
                 for ng,d in adj[node]:
                     if t+d<dist[ng] or ng not in seen:
                         if t+d<=thres:
