@@ -14,13 +14,17 @@ class Graph:
     def shortestPath(self, node1: int, node2: int) -> int:
         dist=[float('inf')]*self.n
         dist[node1]=0
-        q=[(node1,0)]
+        q=[(0,node1)]
         while q:
-            node,d=heapq.heappop(q)
+            d,node=heapq.heappop(q)
+            if node == node2:
+                return d
+            if d > dist[node]:
+                continue
             for ng,t in self.adj[node]:
                 if d+t<dist[ng]:
                     dist[ng]=d+t
-                    heapq.heappush(q,(ng,d+t))
+                    heapq.heappush(q,(d+t,ng))
         return dist[node2] if dist[node2]!=float('inf') else -1
 
 # Your Graph object will be instantiated and called as such:
