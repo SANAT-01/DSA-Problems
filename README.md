@@ -227,10 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/SANAT-01/DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/SANAT-01/DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
