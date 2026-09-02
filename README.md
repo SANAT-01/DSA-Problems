@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/SANAT-01/DSA-Problems/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/SANAT-01/DSA-Problems/tree/main/2076-process-restricted-friend-requests/) | Hard |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/SANAT-01/DSA-Problems/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SANAT-01/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SANAT-01/DSA-Problems/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SANAT-01/DSA-Problems/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/SANAT-01/DSA-Problems/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SANAT-01/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
