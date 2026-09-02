@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SANAT-01/DSA-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SANAT-01/DSA-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SANAT-01/DSA-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SANAT-01/DSA-Problems/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANAT-01/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -227,11 +229,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/SANAT-01/DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/SANAT-01/DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
