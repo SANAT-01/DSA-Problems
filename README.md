@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/SANAT-01/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SANAT-01/DSA-Problems/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/SANAT-01/DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0214-shortest-palindrome](https://github.com/SANAT-01/DSA-Problems/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/SANAT-01/DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/SANAT-01/DSA-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
