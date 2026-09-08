@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/SANAT-01/DSA-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/SANAT-01/DSA-Problems/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/SANAT-01/DSA-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/SANAT-01/DSA-Problems/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/SANAT-01/DSA-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
