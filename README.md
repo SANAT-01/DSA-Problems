@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SANAT-01/DSA-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANAT-01/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/SANAT-01/DSA-Problems/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/SANAT-01/DSA-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Merge Sort
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SANAT-01/DSA-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -272,12 +275,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SANAT-01/DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SANAT-01/DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SANAT-01/DSA-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -467,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0394-decode-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0394-decode-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
