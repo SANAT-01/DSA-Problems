@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/SANAT-01/DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANAT-01/DSA-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/SANAT-01/DSA-Problems/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/SANAT-01/DSA-Problems/tree/main/2236-root-equals-sum-of-children/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANAT-01/DSA-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SANAT-01/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SANAT-01/DSA-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SANAT-01/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SANAT-01/DSA-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/SANAT-01/DSA-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
