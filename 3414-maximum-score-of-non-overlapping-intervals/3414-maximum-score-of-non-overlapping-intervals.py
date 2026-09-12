@@ -1,30 +1,32 @@
+from bisect import bisect_left
+from functools import lru_cache
+
 class Solution:
     def maximumWeight(self, intervals: List[List[int]]) -> List[int]:
-        n = len(intervals)
-        arr = [
-            (intervals[i][1], intervals[i][0], intervals[i][2], i)
-            for i in range(n)
-            ]
-        arr.sort()
-        print(arr)
-        dp = [[0] * 5 for _ in range(n + 1)]
-        indices = [[[] for _ in range(5)] for _ in range(n + 1)]
-        for i in range(n):
-            r, l, weight, idx = arr[i]
-            # Use binary search to find intervals whose right endpoints are smaller than l.
-            k = bisect_left(arr, (l,), hi=i)
-            for j in range(1, 5):
-                s1 = dp[i][j]
-                s2 = dp[k][j - 1] + weight
-                if s1 > s2:
-                    dp[i + 1][j] = dp[i][j]
-                    indices[i + 1][j] = indices[i][j].copy()
-                    continue
-                new_index = indices[k][j - 1].copy()
-                new_index.append(idx)
-                new_index.sort()
-                if s1 == s2 and indices[i][j] < new_index:
-                    new_index = indices[i][j].copy()
-                dp[i + 1][j] = s2
-                indices[i + 1][j] = new_index
-        return indices[n][4]
+        interval_indices = {}
+        for i, (l, r, w) in enumerate(intervals):
+            tup = (l, r, w)
+            if tup not in interval_indices:
+                interval_indices[tup] = i
+        sorted_intervals = sorted(interval_indices.keys())
+        n = len(sorted_intervals)
+        @lru_cache(None)
+        def dp(i, remaining):
+            if i == n or remaining == 0:
+                return 0, []
+            skip_w, skip_indices = dp(i + 1, remaining)
+            l, r, w = sorted_intervals[i]
+            next_i = bisect_left(sorted_intervals, (r + 1, -1, -1))
+            next_w, next_indices = dp(next_i, remaining - 1)
+            take_w = w + next_w
+            take_indices = sorted(next_indices + [interval_indices[(l, r, w)]])
+            if take_w > skip_w:
+                return take_w, take_indices
+            elif take_w < skip_w:
+                return skip_w, skip_indices
+            else:
+                if take_indices < skip_indices:
+                    return take_w, take_indices
+                else:
+                    return skip_w, skip_indices
+        return dp(0, 4)[1]
