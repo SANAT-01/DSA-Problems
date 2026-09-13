@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0815-bus-routes](https://github.com/SANAT-01/DSA-Problems/tree/main/0815-bus-routes/) | Hard |
+| [0835-image-overlap](https://github.com/SANAT-01/DSA-Problems/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/SANAT-01/DSA-Problems/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0932-beautiful-array/) | Medium |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0835-image-overlap](https://github.com/SANAT-01/DSA-Problems/tree/main/0835-image-overlap/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SANAT-01/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/SANAT-01/DSA-Problems/tree/main/1765-map-of-highest-peak/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
