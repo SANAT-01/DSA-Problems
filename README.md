@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SANAT-01/DSA-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SANAT-01/DSA-Problems/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANAT-01/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/SANAT-01/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SANAT-01/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SANAT-01/DSA-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SANAT-01/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/SANAT-01/DSA-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
@@ -330,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/SANAT-01/DSA-Problems/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SANAT-01/DSA-Problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1927-sum-game](https://github.com/SANAT-01/DSA-Problems/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SANAT-01/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
