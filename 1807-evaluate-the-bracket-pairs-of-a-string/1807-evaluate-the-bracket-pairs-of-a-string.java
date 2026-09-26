@@ -7,7 +7,6 @@ class Solution {
         for (int idx=0; idx<knowledge.size(); idx++){
             k.put(knowledge.get(idx).get(0), knowledge.get(idx).get(1));
         }
-        System.out.println(k);
         while (r<s.length()){
             if (s.charAt(r)=='(' && r>l){
                 while (s.charAt(l)=='('){
@@ -27,7 +26,6 @@ class Solution {
             r+=1;
         }
         arr.add(s.substring(l,r));
-        System.out.println(arr);
         String ans="";
         for (String x : arr){
             ans+=x;
