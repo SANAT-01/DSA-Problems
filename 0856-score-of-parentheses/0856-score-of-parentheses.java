@@ -1,8 +1,7 @@
 class Solution {
     public int scoreOfParentheses(String S) {
         Stack<Integer> stack = new Stack<>();
-        stack.push(0); // The score of the current frame
-
+        stack.push(0);
         for (char c : S.toCharArray()) {
             if (c == '(') {
                 stack.push(0);
