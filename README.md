@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SANAT-01/DSA-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SANAT-01/DSA-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/SANAT-01/DSA-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/SANAT-01/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/SANAT-01/DSA-Problems/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0687-longest-univalue-path](https://github.com/SANAT-01/DSA-Problems/tree/main/0687-longest-univalue-path/) | Medium |
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
