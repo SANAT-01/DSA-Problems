@@ -15,7 +15,6 @@ class Solution {
         }
         sub="";
         for (String c : arr){
-            System.out.println(c);
             sub+=c;
         } 
         return sub;
