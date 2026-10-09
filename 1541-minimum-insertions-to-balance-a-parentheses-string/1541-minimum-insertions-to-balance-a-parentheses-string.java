@@ -21,6 +21,7 @@ class Solution {
                     insertions++;
                     index++;
                 }
+                
             }
         }
         insertions += leftCount * 2;
