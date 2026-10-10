@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SANAT-01/DSA-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SANAT-01/DSA-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SANAT-01/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/SANAT-01/DSA-Problems/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/SANAT-01/DSA-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SANAT-01/DSA-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANAT-01/DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SANAT-01/DSA-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
