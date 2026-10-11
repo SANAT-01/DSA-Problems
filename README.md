@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/SANAT-01/DSA-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/SANAT-01/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SANAT-01/DSA-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SANAT-01/DSA-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/SANAT-01/DSA-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/SANAT-01/DSA-Problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SANAT-01/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/SANAT-01/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/SANAT-01/DSA-Problems/tree/main/0147-insertion-sort-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SANAT-01/DSA-Problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Greedy
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/SANAT-01/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/SANAT-01/DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## DP on Trees
@@ -700,4 +703,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SANAT-01/DSA-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SANAT-01/DSA-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/SANAT-01/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
