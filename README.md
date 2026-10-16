@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/SANAT-01/DSA-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/SANAT-01/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SANAT-01/DSA-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SANAT-01/DSA-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANAT-01/DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/SANAT-01/DSA-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [2485-find-the-pivot-integer](https://github.com/SANAT-01/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
