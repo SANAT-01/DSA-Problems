@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/SANAT-01/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
