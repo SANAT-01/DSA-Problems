@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/SANAT-01/DSA-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SANAT-01/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANAT-01/DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/SANAT-01/DSA-Problems/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/SANAT-01/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SANAT-01/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SANAT-01/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
