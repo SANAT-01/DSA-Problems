@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SANAT-01/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANAT-01/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/SANAT-01/DSA-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SANAT-01/DSA-Problems/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SANAT-01/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SANAT-01/DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -341,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/SANAT-01/DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SANAT-01/DSA-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/SANAT-01/DSA-Problems/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Ordered Set
