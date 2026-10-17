@@ -14,7 +14,6 @@ class Solution:
         target=[0]*n
         for idx,i in enumerate(indices):
             target[i]=idx
-        print(indices,target)
         visited=[False]*n
         cycles=0
         for i in range(n):
