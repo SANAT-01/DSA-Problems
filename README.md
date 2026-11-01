@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/SANAT-01/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/SANAT-01/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/SANAT-01/DSA-Problems/tree/main/0836-rectangle-overlap/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/SANAT-01/DSA-Problems/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/SANAT-01/DSA-Problems/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/0493-reverse-pairs/) | Hard |
