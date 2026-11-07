@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SANAT-01/DSA-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/SANAT-01/DSA-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/SANAT-01/DSA-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SANAT-01/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/SANAT-01/DSA-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/SANAT-01/DSA-Problems/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SANAT-01/DSA-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SANAT-01/DSA-Problems/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
