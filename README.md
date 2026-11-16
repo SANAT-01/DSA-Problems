@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SANAT-01/DSA-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SANAT-01/DSA-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/SANAT-01/DSA-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SANAT-01/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SANAT-01/DSA-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/SANAT-01/DSA-Problems/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SANAT-01/DSA-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/SANAT-01/DSA-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SANAT-01/DSA-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
