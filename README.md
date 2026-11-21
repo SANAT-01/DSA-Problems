@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/SANAT-01/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/SANAT-01/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/SANAT-01/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
+| [0279-perfect-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SANAT-01/DSA-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANAT-01/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/SANAT-01/DSA-Problems/tree/main/0133-clone-graph/) | Medium |
+| [0279-perfect-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/SANAT-01/DSA-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/SANAT-01/DSA-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0743-network-delay-time](https://github.com/SANAT-01/DSA-Problems/tree/main/0743-network-delay-time/) | Medium |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SANAT-01/DSA-Problems/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SANAT-01/DSA-Problems/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/SANAT-01/DSA-Problems/tree/main/0198-house-robber/) | Medium |
+| [0279-perfect-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0486-predict-the-winner](https://github.com/SANAT-01/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SANAT-01/DSA-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/SANAT-01/DSA-Problems/tree/main/0877-stone-game/) | Medium |
@@ -801,4 +804,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SANAT-01/DSA-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/SANAT-01/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
