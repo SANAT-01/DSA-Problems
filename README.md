@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/SANAT-01/DSA-Problems/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1140-stone-game-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/SANAT-01/DSA-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1512-number-of-good-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SANAT-01/DSA-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SANAT-01/DSA-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/SANAT-01/DSA-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SANAT-01/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SANAT-01/DSA-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANAT-01/DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/SANAT-01/DSA-Problems/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SANAT-01/DSA-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SANAT-01/DSA-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SANAT-01/DSA-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SANAT-01/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SANAT-01/DSA-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SANAT-01/DSA-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/SANAT-01/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/SANAT-01/DSA-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/SANAT-01/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2029-stone-game-ix](https://github.com/SANAT-01/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SANAT-01/DSA-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SANAT-01/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
